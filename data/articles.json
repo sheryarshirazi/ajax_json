@@ -1,0 +1,12 @@
+{
+	"articles":[
+		{
+			"id": 1,
+			"name": "Some text"
+		},
+		{
+			"id": 2,
+			"name": "sentence 2"
+		}
+	]
+}
